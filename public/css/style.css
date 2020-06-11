@@ -1,0 +1,22 @@
+header{
+    background-color: #265E95;
+    text-align: center;
+}
+
+.logo{
+    color: #fff;
+    font-size:36px;
+    margin-top:10px;
+
+}
+
+
+header input{
+    font-size:22px;
+    margin: 20px 0;
+}
+.news_item{
+    padding:20px;
+    box-sizing: border-box;
+    border-bottom: solid grey 2px;
+}
