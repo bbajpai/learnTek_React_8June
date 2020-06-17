@@ -19,6 +19,7 @@ class Header1 extends Component{
     inputChange(event){
         console.log(event.target.value);
         this.setState({keywords:event.target.value});
+        this.props.newsSearch(event.target.value)
 
         // console.log('H11');
     }
